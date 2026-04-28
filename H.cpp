@@ -16,6 +16,7 @@ void solve() {
         cout<<s.substr(0,s.size()-12)<<endl;
     }
     else cout<<"No"<<endl;
+    return;
 }
 
 signed main() {
