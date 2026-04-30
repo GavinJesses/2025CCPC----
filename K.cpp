@@ -81,7 +81,7 @@ void slove(){
 	for(int i=1;i<=n;i++) // 按序输出即可
 	cout<<a[i]<<endl;
     cout<<endl;
-} 
+} //sdadwadsadwadwwwwwwawww
 signed main(){
 	ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 	int _=1;
